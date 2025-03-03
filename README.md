@@ -45,7 +45,19 @@ Once ISL signs are translated into English, Google Text-to-Speech (gTTS) convert
 
 ## Installation
 
-  pip install tensorflow numpy mediapipe opencv-python gtts sklearn matplotlib
+      tensorflow
+      
+      numpy
+      
+      mediapipe   
+      
+      opencv-python
+      
+      gtts 
+      
+      sklearn 
+      
+      matplotlib
 
 ## Usage
 1. Capture ISL signs using a webcam.
